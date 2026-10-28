@@ -12,7 +12,7 @@
 <p align="center">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue">
   <img alt="Manifest V3" src="https://img.shields.io/badge/manifest-v3-green">
-  <img alt="Browsers" src="https://img.shields.io/badge/browsers-Floorp%20%7C%20Firefox%20%7C%20Chrome-orange">
+  <img alt="Browsers" src="https://img.shields.io/badge/browsers-Firefox%20%7C%20Chrome-orange">
   <img alt="No data collection" src="https://img.shields.io/badge/data%20collection-none-success">
 </p>
 
@@ -31,10 +31,16 @@ Press **Start** and it will:
 
 When it’s done, everything is on the page, so you can search with <kbd>Ctrl</kbd>+<kbd>F</kbd>, save it, or read at your own pace.
 
-<!-- TODO: add screenshots to docs/screenshots/ and uncomment
-![Popup](docs/screenshots/popup.png)
-![Progress badge](docs/screenshots/badge.png)
--->
+## Screenshots
+
+### Inactive | Settings Menu Collapsed
+<img src="docs/screenshots/popup-inactive-collapsed.png" width="300" alt="SuperScroll popup, inactive, settings menu collapsed">
+
+### Active | Settings Menu Expanded
+<img src="docs/screenshots/popup-active-expanded.png" width="300" alt="SuperScroll popup, active and loading, settings menu expanded">
+
+### Inactive | Settings Menu Expanded
+<img src="docs/screenshots/popup-inactive-expanded.png" width="300" alt="SuperScroll popup, inactive, settings menu expanded">
 
 ## Features
 
