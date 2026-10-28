@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h1>⏬ SuperScroll</h1>
+  <p class="sub">Scrolls &amp; clicks “Load more” until everything is loaded.</p>
+
+  <button id="toggle" class="primary">Start</button>
+  <div id="status">Idle</div>
+
+  <details>
+    <summary>Settings</summary>
+    <label>Wait after each step (ms)
+      <input type="number" id="delay" min="200" step="100">
+    </label>
+    <label>Stop after N rounds with no change
+      <input type="number" id="idleRounds" min="1" max="20">
+    </label>
+    <label>Max runtime (minutes)
+      <input type="number" id="maxMinutes" min="1">
+    </label>
+    <label>Max button clicks
+      <input type="number" id="maxClicks" min="1">
+    </label>
+    <label class="row"><input type="checkbox" id="clickButtons"> Click “Load more” buttons</label>
+    <label>Custom button selector (optional)
+      <input type="text" id="customSelector" placeholder=".my-load-more-btn">
+    </label>
+  </details>
+  <script src="popup.js"></script>
+</body>
+</html>
