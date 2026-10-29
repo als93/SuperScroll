@@ -63,8 +63,7 @@ When it’s done, everything is on the page, so you can search with <kbd>Ctrl</k
 
 ### Firefox Add-ons (AMO)
 
-<!-- TODO: replace with the real listing URL once published -->
-Coming soon.
+https://addons.mozilla.org/en-US/firefox/addon/superscroll/
 
 ### From source: Floorp / Firefox (temporary)
 
