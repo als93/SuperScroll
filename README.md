@@ -180,4 +180,4 @@ Bug reports and pull requests are welcome. When reporting a problem, include the
 
 ## License
 
-Released under the [MIT License](LICENSE).
+SuperScroll is free software, released under the [GNU General Public License v3.0](LICENSE). You may use, modify and redistribute it, but derivative works that you distribute must also be released under the GPL with their source code available.
