@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue">
-  <img alt="Manifest V3" src="https://img.shields.io/badge/manifest-v3-green">
+  <img alt="License: GPL v3" src="https://img.shields.io/badge/license-GPLv3-blue">  <img alt="Manifest V3" src="https://img.shields.io/badge/manifest-v3-green">
   <img alt="Browsers" src="https://img.shields.io/badge/browsers-Firefox%20%7C%20Chrome-orange">
   <img alt="No data collection" src="https://img.shields.io/badge/data%20collection-none-success">
 </p>
@@ -33,14 +32,20 @@ When it’s done, everything is on the page, so you can search with <kbd>Ctrl</k
 
 ## Screenshots
 
-### Inactive | Settings Menu Collapsed
-<img src="docs/screenshots/popup-inactive-collapsed.png" width="300" alt="SuperScroll popup, inactive, settings menu collapsed">
+<h3 align="center">Inactive | Settings Menu Collapsed</h3>
+<p align="center">
+  <img src="docs/screenshots/popup-inactive-collapsed.png" width="300" alt="SuperScroll popup, inactive, settings menu collapsed">
+</p>
 
-### Active | Settings Menu Expanded
-<img src="docs/screenshots/popup-active-expanded.png" width="300" alt="SuperScroll popup, active and loading, settings menu expanded">
+<h3 align="center">Active | Settings Menu Expanded</h3>
+<p align="center">
+  <img src="docs/screenshots/popup-active-expanded.png" width="300" alt="SuperScroll popup, active and loading, settings menu expanded">
+</p>
 
-### Inactive | Settings Menu Expanded
-<img src="docs/screenshots/popup-inactive-expanded.png" width="300" alt="SuperScroll popup, inactive, settings menu expanded">
+<h3 align="center">Inactive | Settings Menu Expanded</h3>
+<p align="center">
+  <img src="docs/screenshots/popup-inactive-expanded.png" width="300" alt="SuperScroll popup, inactive, settings menu expanded">
+</p>
 
 ## Features
 
